@@ -1,0 +1,42 @@
+<style>
+  h1 {
+    font-family: Lobster, monospace;
+    color: black;
+    font-size: 80px;
+  }
+
+  .try-align {
+    text-align: center;
+  }
+
+  li {
+    text-align: center;
+    display: inline;
+    margin-right: 50px;
+    }
+
+  a {
+    font-family: "Zilla Slab";
+    color: black;
+    font-size: 25px;
+    line-height: 30px;
+  }
+
+  p {
+    font-family: "Zilla Slab", monospace;
+    font-size: 16px;
+    color: black;
+  }
+
+  button {
+    background-color: #6cffe0;
+    font-family: monospace;
+  }
+
+  img {
+    width: 200px;
+    display: inline;
+    margin: 100px;
+  }
+
+  </style>
