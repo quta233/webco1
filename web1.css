@@ -1,31 +1,42 @@
 <style>
-  h1 {
+  
+  .text-style {
     font-family: Lobster, monospace;
     color: black;
-    font-size: 80px;
+    font-size: 200px;
   }
 
-  .try-align {
+  .center-align {
     text-align: center;
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+    color: black;
+    font-size: 50px;
   }
 
   li {
-    text-align: center;
     display: inline;
-    margin-right: 50px;
+    margin-right: 120px;
     }
 
   a {
     font-family: "Zilla Slab";
-    color: black;
+    color: white;
     font-size: 25px;
-    line-height: 30px;
+    line-height: 15px;
+  }
+
+  a:hover {
+    color: #e5e5e5;
   }
 
   p {
     font-family: "Zilla Slab", monospace;
     font-size: 16px;
     color: black;
+
   }
 
   button {
@@ -33,24 +44,41 @@
     font-family: monospace;
   }
 
+  button:hover {
+    background-color: #56ccb3;
+  }
+
   .blue-box {
-      background-color: blue;
+      background-color: #0099cc;
       color: #fff;
-      padding: 20px;
+      padding: 5px;
+      margin: 5px;
+    }
+
+  .mix-box {
+      background-image: linear-gradient(53deg, #92b8d8, #e57275);
+      color: #794044;
+      padding: 10px;
       margin: 10px;
     }
 
   img {
-    width: 200px;
     display: inline;
-    margin: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    border-color: #d1c9c9;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
   }
 
-  .blue-border {
-      border-color: blue;
+  .downside-border {
+      border-color: #f8eef6;
       border-width: 20px;
       border-style: solid;
-      border-radius: 50%;
+      border-radius: 10px;
     }
 
   </style>
