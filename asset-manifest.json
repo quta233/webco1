@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webco1/lost-found/static/css/main.2a4168ec.chunk.css",
+    "main.js": "/webco1/lost-found/static/js/main.c3364730.chunk.js",
+    "main.js.map": "/webco1/lost-found/static/js/main.c3364730.chunk.js.map",
+    "runtime-main.js": "/webco1/lost-found/static/js/runtime-main.b0caec5a.js",
+    "runtime-main.js.map": "/webco1/lost-found/static/js/runtime-main.b0caec5a.js.map",
+    "static/js/2.7d355753.chunk.js": "/webco1/lost-found/static/js/2.7d355753.chunk.js",
+    "static/js/2.7d355753.chunk.js.map": "/webco1/lost-found/static/js/2.7d355753.chunk.js.map",
+    "index.html": "/webco1/lost-found/index.html",
+    "precache-manifest.e7aea749431cec6f97da1b2da8fbb4ff.js": "/webco1/lost-found/precache-manifest.e7aea749431cec6f97da1b2da8fbb4ff.js",
+    "service-worker.js": "/webco1/lost-found/service-worker.js",
+    "static/css/main.2a4168ec.chunk.css.map": "/webco1/lost-found/static/css/main.2a4168ec.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0caec5a.js",
+    "static/js/2.7d355753.chunk.js",
+    "static/css/main.2a4168ec.chunk.css",
+    "static/js/main.c3364730.chunk.js"
+  ]
+}
