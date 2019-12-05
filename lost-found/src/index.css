@@ -38,6 +38,7 @@ p {
 button {
   background-color: #6cffe0;
   font-family: monospace;
+  height: 2.0em;
 }
 
 button:hover {
@@ -76,3 +77,11 @@ img {
     border-style: solid;
     border-radius: 10px;
   }
+
+  input {
+    height: 2.0em;
+    width: 30.5em;
+    vertical-align: middle; 
+  }
+
+  /* jjjj */

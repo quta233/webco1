@@ -39,7 +39,7 @@ class Myform extends React.Component {
             <label>
               Item Name:<br/>
               <input type="text" name="name" value={this.state.lostitem.name} onChange={this.handleChange}/>
-            </label>
+            </label><br/>
             <label>
               location:<br/>
               <input type="text" name="location" value={this.state.lostitem.location} onChange={this.handleChange}/>
@@ -49,7 +49,7 @@ class Myform extends React.Component {
             <label>
               Found time:<br/>
               <input type="text" name="time" value={this.state.lostitem.time} onChange={this.handleChange}/>
-            </label>
+            </label><br/>
             <label>
               Email/Contact:<br/>
               <input type="text" name="contact" value={this.state.lostitem.contact} onChange={this.handleChange}/>

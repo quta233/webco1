@@ -4,7 +4,7 @@ class Button extends React.Component {
   render() {
     return(
         <div>
-            <form action="/dummy-server">
+            <form action=" http://localhost:3003/">
             <label>
             Search for lost items
                 <input type="text" placeholder="books, phones, keys, etc."/>
