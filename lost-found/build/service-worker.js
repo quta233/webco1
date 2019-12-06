@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/webco1/lost-found/precache-manifest.e7aea749431cec6f97da1b2da8fbb4ff.js"
+  "/webco1/lost-found/precache-manifest.d924eac087e23903de6ca915d1c70969.js"
 );
 
 self.addEventListener('message', (event) => {
